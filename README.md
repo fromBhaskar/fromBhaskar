@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android & Web.
-- 🌱 I’m currently learning Android & Web.
+- 🔭 I’m currently working on Android & Web Development.
+- 🌱 I’m currently learning Android & FullStack Web Development.
 - 👯 I’m looking to collaborate on Android projects.
-- 🤔 I’m looking for help with Jetpack Compose.
+- 🤔 I’m looking for help with Jetpack Compose,Machine learning.
 
 <!--
 **fromBhaskar/fromBhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
